@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Git Hub Repos</string>
+    <string name="logo">logo</string>
+    <string name="login">Login</string>
+    <string name="user_name">User name</string>
+    <string name="email">Email</string>
+    <string name="name">name</string>
+    <string name="pass">pass</string>
+</resources>
